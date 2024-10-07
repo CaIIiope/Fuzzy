@@ -1,3 +1,5 @@
-oi
-primeiro commit
-segundo teste
+# Fuzzy Logic 
+
+* Antecedents
+* Rules
+* Output
