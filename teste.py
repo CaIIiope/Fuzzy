@@ -104,3 +104,9 @@ def plot_fuzzy_sets(variable, title):
 print(get_action("S1", 3, 2, 80))  # Normal operation, low risk, low time criticality, good system health
 print(get_action("S2", 7, 8, 60))  # GPS Spoofing, high risk, high time criticality, fair system health
 print(get_action("S4", 8, 9, 30))  # Engine failure, high risk, high time criticality, poor system health
+
+# risk.automf(3, variable_type='quantity')
+# time.automf(3, 'quantity')
+# energy.automf(3, 'quantity', invert=True)
+# complexity.automf(3, 'quantity')
+# impact.automf(3, 'quantity')
